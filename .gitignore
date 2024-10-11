@@ -1,0 +1,5 @@
+tmp/
+.osp/
+vendor/composer
+autoload.php
+composer.lock
